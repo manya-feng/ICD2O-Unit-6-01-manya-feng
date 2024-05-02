@@ -11,10 +11,9 @@ function calculate() {
 
   if ( (day == "Tuesday" || day == "Thursday") || age > 12 && age < 21 ) {
     document.getElementById("answer").innerHTML =
-      "You're eligible for student pricing!"
+      "You must pay regular price."
   } else {
     document.getElementById("answer").innerHTML =
-      "You must pay regular price."
+      "You're eligible for student pricing!"
   }
-  console.log("Thanks for verifying your age!");
 }
