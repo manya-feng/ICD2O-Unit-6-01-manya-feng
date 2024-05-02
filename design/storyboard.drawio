@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="312" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="809" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -21,6 +21,9 @@
                 </mxCell>
                 <mxCell id="14" value="FIND CORRECT PRICE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="7">
                     <mxGeometry x="45" y="230" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://arc-anglerfish-washpost-prod-washpost.s3.us-east-1.amazonaws.com/public/CAGNYXUKG4I6VHP5TEHZ3TDR7Q_size-normalized.jpg;" vertex="1" parent="7">
+                    <mxGeometry x="480" y="76.57" width="250" height="166.83" as="geometry"/>
                 </mxCell>
                 <mxCell id="12" value="" style="endArrow=none;html=1;fontSize=12;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
