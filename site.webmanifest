@@ -2,8 +2,8 @@
   "name": "Manya's App",
   "short_name": "Manya's App",
   "description": "Github Page for Manya's App",
-  "scope": "/ICS2O-PWA-Test/",
-  "start_url": "/ICS2O-PWA-Test/",
+  "scope": "/ICD2O-Unit-5-04-manya-feng/",
+  "start_url": "/ICD2O-Unit-5-04-manya-feng/",
   "permissions": [
     "unlimitedStorage",
     "fullscreen"
